@@ -232,3 +232,41 @@ movie = "The Hangover"
 print("My favorite movie is {}.".format(movie))
 print("My favorite movie is %s" % movie)
 print(f"My favorite movie is {movie}")
+
+
+#DICTIONARIES - key/value pairs {}
+
+drinks = {"White Russian": 7, "Old Fashion": 10, "Lemon Drop": 8} #drink is key, price is value
+print(drinks)
+
+employees = {"Finance": ["Bob", "Linda", "Tina"], "IT": ["Gene", "Louise", "Teddy"], "HR": ["Jimmy Jr.", "Mort"]}
+employees['Legal'] = ["Mr. Frond"] #adds new key:value pair
+print(employees)
+
+employees.update({"Sales": ["Andie", "Ollie"]}) #adds new key:value pair
+print(employees)
+
+drinks['White Russian'] = 8
+print(drinks)
+
+print(drinks.get("White Russian"))
+
+
+#IMPORTING - Importing is important.
+import sys #system functions and parameters
+from datetime import datetime as dt #import with alias 
+
+print(sys.version)
+print(dt.now())
+
+
+#SOCKETS - Sockets can be used to connect two nodes together.  
+
+#!/bin/python3
+import socket
+
+HOST = '127.0.0.1'
+PORT = 7777
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM) #af_inet is ipv4, sock stream is a port
+s.connect((HOST,PORT))
