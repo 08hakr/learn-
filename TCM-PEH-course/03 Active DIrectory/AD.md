@@ -45,3 +45,13 @@ Attribute Object: Information that can be attached to an Object. ex. Display nam
 - enable trusts between all domains in the forest.
 - share the enterprise admins ans schema Addmins groups.
 \n
+## Organizational Units (OUs): this are containers tjat can contains user, groups, computers, and other OUs.
+- Represent your organization hirearchically and logically.
+- manage a collection of objects in a consistent way.
+- delegate permissions to administer group of objecs.
+- apply policies.
+## Trusts: this allows a mechanism for user to gain access to resources in another domain.
+- Directional: The trust direction flowa from trusting domain to the trusted domain.
+- transhitive: the trust relationship is extended beyond a two-domain trust to include other trusted domains.
+- all domains in a forest trust all other domain in forest.
+- trust can extend outside forest.
