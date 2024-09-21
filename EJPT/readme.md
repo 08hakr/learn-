@@ -20,7 +20,7 @@ Welcome to the repository for **INE Assessment Methodologies** and **Penetration
 
 | File                                                   | Description                                   |
 |--------------------------------------------------------|-----------------------------------------------|
-| [001 INE-Assessment-Methodologies-Information-Gathering.png](./001 INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering 2024-09-07_23-50.png) | Course-related image or illustration.         |
+| [001 INE-Assessment-Methodologies-Information-Gathering.png](001 INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering 2024-09-07_23-50.png) | Course-related image or illustration.         |
 | [001 INE-Assessment-Methodologies-Information-Gathering.md](./001 INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering.md)  | Markdown file with notes and explanations.    |
 | [001 INE-Assessment-Methodologies-Information-Gathering.pdf](./001 INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering.pdf)  | PDF version of the information gathering file.|
 
