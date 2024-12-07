@@ -37,7 +37,7 @@ Welcome to the repository for **INE Assessment Methodologies** and **Penetration
 
 | File                                                     | Description                                   |
 |----------------------------------------------------------|-----------------------------------------------|
-| [002 INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.md](./002%20INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File/002
+| [002 INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.md](/002%20INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.md)
 
 ---
 
@@ -47,9 +47,9 @@ Welcome to the repository for **INE Assessment Methodologies** and **Penetration
 
 | File                                                   | Description                                   |
 |--------------------------------------------------------|-----------------------------------------------|
-| [001 INE-Assessment-Methodologies-Information-Gathering.png](./001 INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering 2024-09-07_23-50.png) | Course-related image or illustration.         |
-| [001 INE-Assessment-Methodologies-Information-Gathering.md](./001 INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering.md)  | Markdown file with notes and explanations.    |
-| [001 INE-Assessment-Methodologies-Information-Gathering.pdf](./001 INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering.pdf)  | PDF version of the information gathering file.|
+| [001 INE-Assessment-Methodologies-Information-Gathering.png](./001%20INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering 2024-09-07_23-50.png) | Course-related image or illustration.         |
+| [001 INE-Assessment-Methodologies-Information-Gathering.md](./001%20INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering.md)  | Markdown file with notes and explanations.    |
+| [001 INE-Assessment-Methodologies-Information-Gathering.pdf](./001%20INE-Assessment-Methodologies-Information-Gathering-Course-Files/001 INE-Assessment-Methodologies-Information-Gathering.pdf)  | PDF version of the information gathering file.|
 
 ---
 
@@ -59,8 +59,8 @@ Welcome to the repository for **INE Assessment Methodologies** and **Penetration
 
 | File                                                   | Description                                   |
 |--------------------------------------------------------|-----------------------------------------------|
-| [002 INE-Assessment-Methodologies-Footprinting-and-Scanning.md](./002 INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File/002 INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.md) | Markdown file with details on footprinting and scanning. |
-| [002 INE-Assessment-Methodologies-Footprinting-and-Scanning.pdf](./002 INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File/002 INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.pdf)  | PDF version of the footprinting and scanning course file. |
+| [002 INE-Assessment-Methodologies-Footprinting-and-Scanning.md](./002%20INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File/002 INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.md) | Markdown file with details on footprinting and scanning. |
+| [002 INE-Assessment-Methodologies-Footprinting-and-Scanning.pdf](./002%20INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File/002 INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.pdf)  | PDF version of the footprinting and scanning course file. |
 
 ---
 
@@ -70,8 +70,8 @@ Welcome to the repository for **INE Assessment Methodologies** and **Penetration
 
 | File                                                   | Description                                   |
 |--------------------------------------------------------|-----------------------------------------------|
-| [003 INE-Assessment-Methodologies-Enumeration.md](./003 INE-Assessment-Methodologies-Enumeration-Course-File/003 INE-Assessment-Methodologies-Enumeration-Course-File.md) | Course notes on enumeration techniques. |
-| [003 INE-Assessment-Methodologies-Enumeration.pdf](./003 INE-Assessment-Methodologies-Enumeration-Course-File/003 INE-Assessment-Methodologies-Enumeration-Course-File.pdf) | PDF version of enumeration course material. |
+| [003 INE-Assessment-Methodologies-Enumeration.md](./003%20INE-Assessment-Methodologies-Enumeration-Course-File/003 INE-Assessment-Methodologies-Enumeration-Course-File.md) | Course notes on enumeration techniques. |
+| [003 INE-Assessment-Methodologies-Enumeration.pdf](./003%20INE-Assessment-Methodologies-Enumeration-Course-File/003 INE-Assessment-Methodologies-Enumeration-Course-File.pdf) | PDF version of enumeration course material. |
 
 ---
 
@@ -81,8 +81,8 @@ Welcome to the repository for **INE Assessment Methodologies** and **Penetration
 
 | File                                                   | Description                                   |
 |--------------------------------------------------------|-----------------------------------------------|
-| [004 INE-Assessment-Methodologies-Vulnerability-Assessment.md](./004 INE-Assessment-Methodologies-Vulnerability-Assessment-Course-File/004 INE-Assessment-Methodologies-Vulnerability-Assessment-Course-File.md) | Markdown file on vulnerability assessment techniques. |
-| [004 INE-Assessment-Methodologies-Vulnerability-Assessment.pdf](./004 INE-Assessment-Methodologies-Vulnerability-Assessment-Course-File/004 INE-Assessment-Methodologies-Vulnerability-Assessment-Course-File.pdf) | PDF version of vulnerability assessment content. |
+| [004 INE-Assessment-Methodologies-Vulnerability-Assessment.md](./004%20INE-Assessment-Methodologies-Vulnerability-Assessment-Course-File/004 INE-Assessment-Methodologies-Vulnerability-Assessment-Course-File.md) | Markdown file on vulnerability assessment techniques. |
+| [004 INE-Assessment-Methodologies-Vulnerability-Assessment.pdf](./004%20INE-Assessment-Methodologies-Vulnerability-Assessment-Course-File/004 INE-Assessment-Methodologies-Vulnerability-Assessment-Course-File.pdf) | PDF version of vulnerability assessment content. |
 
 ---
 
@@ -92,20 +92,9 @@ Welcome to the repository for **INE Assessment Methodologies** and **Penetration
 
 | File                                                   | Description                                   |
 |--------------------------------------------------------|-----------------------------------------------|
-| [005 INE-Assessment-Methodologies-Auditing-Fundamentals.md](./005 INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File/005 INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File.md) | Auditing fundamentals in markdown format. |
-| [005 INE-Assessment-Methodologies-Auditing-Fundamentals.pdf](./005 INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File/005 INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File.pdf) | PDF version of auditing fundamentals. |
-| [005 INE-Assessment-Methodologies-Auditing-Fundamentals.pptx](./005 INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File/005 INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File.pptx) | PowerPoint presentation on auditing fundamentals. |
-
----
-
-## Host-Based Attacks
-
-> **Folder**: `006 INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks-Course-File`
-
-| File                                                   | Description                                   |
-|--------------------------------------------------------|-----------------------------------------------|
-| [006 INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks.md](./006 INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks-Course-File/006 INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks.md) | Host-based attack techniques in markdown format. |
-| [006 INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks.pdf](./006 INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks-Course-File/006 INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks.pdf) | PDF version of host-based attacks course material. |
+| [005 INE-Assessment-Methodologies-Auditing-Fundamentals.md](./005%20INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File/005 INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File.md) | Auditing fundamentals in markdown format. |
+| [005 INE-Assessment-Methodologies-Auditing-Fundamentals.pdf](./005%20INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File/005 INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File.pdf) | PDF version of auditing fundamentals. |
+| [005 INE-Assessment-Methodologies-Auditing-Fundamentals.pptx](./005%20INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File/005 INE-Assessment-Methodologies-Auditing-Fundamentals-Course-File.pptx) | PowerPoint presentation on auditing fundamentals. |
 
 ---
 
