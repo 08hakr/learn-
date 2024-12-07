@@ -1,0 +1,64 @@
+# Experience of eJPT and Some Tips for eJPT
+
+So let’s begin…
+
+![eJPT Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/125483260)
+
+I just passed my eJPT exam Yesterday **“06 DEC 2024”** with a Score of **85%**.
+
+---
+
+## Tip 01: Setup a Minimum and Maximum Time
+
+Calculating the time required to complete the course.
+
+I started preparing myself on **03 SEP 2024** and one by one each course. There is a time mentioned on each course; I calculated each day of 4 hours. This means one-course time divided by 3 OR 4 hours gives you the minimum time of days to decide the time period to spend on this course. You can add padding of 01 day on each course to make it more comfortable. Here, I didn’t and stuck to the decided time, which was enough for one course.
+
+There was a time when I took 20 days of leave approved by myself and my family for the Diwali Season. That is why it took more time than usual, yet I completed it before **20 NOV 2024**.
+
+---
+
+## Tip 02: Exam Voucher Validity
+
+The exam voucher is valid for around 6 months from when you buy the course. To make the transaction smoother, you can take both at the same time to avoid discomfort in the future while trying to take the exam.
+
+Here, the bad thing started happening. I prepared for the exam for 5 days, and there was a Black Friday sale started on INE. Due to that, I was unable to purchase my exam voucher with the given coupon. So once you buy the exam, you can immediately buy the exam voucher as well with the given coupon code. This is valid for around the next 6 months.
+
+After that, I purchased my exam voucher on **04 DEC 2024** evening and started the exam on **05 DEC 2024 at 12:33 PM**.
+
+---
+
+## Tip 03: Take a Break and Attend the Exam in a Peaceful or Comfortable Place
+
+Never doubt yourself if you were prepared. Everything takes time. That is why the total time given is **48 hours**. Hacking a machine is not a game that can be finished in one or two hours; it takes time.
+
+Make yourself comfortable, stay focused, and attend with a powerful mind.
+
+I just began the exam. In the first 5 hours, I was able to find the answer to **11-12 questions** and I was like:  
+
+> “Am I really able to pass this exam OR not?”  
+
+At that moment, I started with a calm mind after taking a break. On the first day, I was able to solve **2 machines** and then another **2 on the second day**. All the questions were asked from those 4 machines only, and the other machines' answers can be found with an **Nmap scan**.
+
+---
+
+## Tip 04: Take Good Notes While Attending Exams and Pursuing Courses
+
+Use **Google** while you are stuck.
+
+In the exam, your own notes are nothing less than a gold mine. If you are stuck anywhere, try to learn more about the version and vulnerabilities of that technology and its configuration file with **GOOGLE**.  
+
+*(Those who think it is cheating—it’s not, because every technology varies from one another, and one person can’t learn each and every single technology. Nobody knows what technology is based on the target machine until you start the exam and start scanning that network. Everything is allowed in LOVE, WAR, and HACKING.)*
+
+---
+
+## Some Extra Tips
+
+- Go with the version vulnerabilities.  
+- Look for the config files of the server—is there any way to access them?  
+- Check the source code of the web server for more links.  
+- Save the **Nmap scan** of each target in your notes.  
+- If you find **WordPress**, try using the tool `wp-scan`.  
+- Use:  
+  ```bash
+  nano /etc/hosts
