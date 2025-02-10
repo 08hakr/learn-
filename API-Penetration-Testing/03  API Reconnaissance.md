@@ -18,6 +18,8 @@
   - company name, "wp-json"
   - header: "content-type: application/json", 
   - ""
+-  Truffel Hog
+  - Git then Explore
 - Direct search for the api documnetaion of the api technology is used OR the api used.
 - WayBackMachine
   - back in time and see the endpoints and view in current domain
