@@ -27,4 +27,8 @@
 
 
 ## Active
-- 
+- amass enum -list 
+- amass enum -active -d domain
+- gobuter dir -u domain -w /usr/share/wordlsits/dirbuster/directory-list-2.3 --wildcard -b 200
+- kite runner
+- copy the api request as a curl and import it into postman
