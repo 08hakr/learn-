@@ -77,19 +77,18 @@ pip install -r ParamSpider/requirements.txt
 
 # theHarvester
 git clone https://github.com/laramies/theHarvester.git && cd theHarvester
-pip install -r requirements/base.txt
+# pip install -r requirements/base.txt
 cd ..
 
 # holehe
-git clone https://github.com/megadose/holehe.git && cd holehe
+git clone https://github.com/megadose/holehe.git 
 pip install -r requirements.txt
-python3 setup.py install
-cd ..
+python3 holehe/setup.py install
 
 # sherlock
-git clone https://github.com/sherlock-project/sherlock.git && cd sherlock
-pip install -r requirements.txt
-cd ..
+git clone https://github.com/sherlock-project/sherlock.git # && cd sherlock
+# pip install -r requirements.txt
+# cd ..
 
 echo "[+] Installing Nikto..."
 git clone https://github.com/sullo/nikto.git
