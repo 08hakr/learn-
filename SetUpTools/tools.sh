@@ -1,6 +1,4 @@
-#!/bin/bash
-
-set -e
+#!/bin/bashset -e
 TOOLS_DIR="$HOME/tools"
 mkdir -p "$TOOLS_DIR"
 cd "$TOOLS_DIR"
@@ -46,7 +44,7 @@ go install -v github.com/hakluke/hakrawler@latest
 # go install -v github.com/LukaSikic/subzy@latest
 
 # kxss
-go install -v github.com/tomnomnom/kxss@latest
+go install -v github.com/Emoe/kxss@latest
 
 # ffuf
 go install -v github.com/ffuf/ffuf/v2@latest
